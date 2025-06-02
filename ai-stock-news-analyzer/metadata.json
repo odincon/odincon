@@ -1,0 +1,5 @@
+{
+  "name": "AI Stock News Analyzer",
+  "description": "An AI-powered tool to analyze pasted stock market news, identify relevant stocks from a watchlist, and generate summarized insights and notification drafts using Gemini. This application helps users understand potential market impacts based on news text using the 'gemini-2.5-flash-preview-04-17' model.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,22 @@
+
+{
+  "rss_feed_urls": [
+    "http://feeds.reuters.com/reuters/businessNews",
+    "https://www.cnbc.com/id/100003114/device/rss/rss.html"
+  ],
+  "watchlist": {
+    "AAPL": ["Apple", "iPhone", "MacBook", "Tim Cook", "App Store"],
+    "TSLA": ["Tesla", "Elon Musk", "EV", "Gigafactory", "Model 3", "Model Y"],
+    "MSFT": ["Microsoft", "Azure", "Windows", "Satya Nadella", "Office 365"],
+    "GOOGL": ["Google", "Alphabet", "Sundar Pichai", "Android", "Search"],
+    "AMZN": ["Amazon", "AWS", "Jeff Bezos", "Ecommerce", "Prime"]
+  },
+  "pushdeer_api_key": "YOUR_PUSHDEER_API_KEY_HERE",
+  "ai_service_api_key": "YOUR_GEMINI_OR_OPENAI_API_KEY_HERE",
+  "news_quantity": 5,
+  "history_days": 7,
+  "last_run_time": null,
+  "last_run_status": "Not yet run",
+  "last_run_output": ""
+}
+    
